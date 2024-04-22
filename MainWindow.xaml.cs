@@ -1,4 +1,10 @@
-﻿using System.Text;
+﻿// Rafael Rivera Harrison
+// 4.19.2024
+// Programming 122
+//Assignment 2 Password login form
+
+
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -101,5 +107,10 @@ namespace Assignment_week_2_Password_login_form
                 PasswordInfo.Clear();
             }
         }
+
+        //The purpose of the devlopers notes is to display any changes that are made throught the code so i can verify
+        //and check to make sure everything is working
+        //as required
+
     }
 }
